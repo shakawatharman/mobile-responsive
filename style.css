@@ -131,7 +131,7 @@ nav {
 
     }
 
-    .nav-details a:hover {
+    .nav-details ul li a:hover {
         background-color: rgba(148, 148, 137, 0.438);
 
     }
